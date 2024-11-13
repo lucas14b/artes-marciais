@@ -1,0 +1,49 @@
+body {
+    color: white ;
+    background: #060606;
+    margin: 0px
+   }
+   
+   header{
+     border-bottom: solid 2px black;
+     padding: 20px;
+     font-size: 32px;
+   }
+   
+   section{
+     color:black ;
+     display: flex;
+     justify-content: height ;
+     background: #FCEDDA;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     padding-left: 20px;
+     padding-right: 20px;
+   
+   }
+   
+   
+   h1{
+     border-bottom: solid 2px skyblue;
+     font-size: 50px ;
+   }
+   
+   p{
+     font-size: 24px;
+   }
+   
+   
+   
+   .meio{
+     padding-left: 37%;
+   }
+   
+   
+   .video{
+     padding-left: 23%;
+   }
+   
+   .link{
+     font-size: 30px;
+     color: darkred;
+   }
